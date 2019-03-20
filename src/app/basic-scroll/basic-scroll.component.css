@@ -1,0 +1,18 @@
+cdk-virtual-scroll-viewport {
+  height: 50vh;
+  width: 80vw;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: center;
+  list-style: none;
+  margin-top: 50px;
+}
+
+li {
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  background: whitesmoke;
+  box-shadow: 2px 2px 3px rgba(#888888, 0.2);
+}
